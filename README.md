@@ -1,6 +1,6 @@
 # AwesomeStuff
 
-## blog
+## Blog
 
 - [I'm Tualatrix](https://imtx.me/)
 - [YYKit 作者](https://blog.ibireme.com/)
