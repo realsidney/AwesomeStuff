@@ -12,5 +12,11 @@
 - 鱼的许愿 (FishesWishes)
 
 
+## macOS App
+
+- [One Switch](https://fireball.studio/oneswitch/)
+- [Manico](https://manico.im/)
+
+
 
 
