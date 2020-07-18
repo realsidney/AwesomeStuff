@@ -2,7 +2,7 @@
 
 ## Blog
 
-- [I'm Tualatrix](https://imtx.me/)
+- [「奇点 作者」](https://imtx.me/)
 - [YYKit 作者](https://blog.ibireme.com/)
 
 
