@@ -2,8 +2,8 @@
 
 ## Blog
 
-- [「奇点 作者」](https://imtx.me/)
-- [YYKit 作者](https://blog.ibireme.com/)
+- [「奇点」 作者](https://imtx.me/)
+- [「YYKit」 作者](https://blog.ibireme.com/)
 
 
 ## 播客 (podcast/小宇宙/Spotify)
