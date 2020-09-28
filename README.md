@@ -15,9 +15,13 @@
 ## macOS App
 
 - [One Switch](https://fireball.studio/oneswitch/)
+  - Mac 工具集
 - [Manico](https://manico.im/)
-
-
+  - 快速切换应用
+- [licecap](https://www.cockos.com/licecap/)
+  - 录屏转为 gif
+- [typora](https://typora.io/#download)
+  - markdown 编辑器
 
 ## 书
 
